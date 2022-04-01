@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/hydrapower2001/website_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Or you can follow this link [flowers](https://rheaantonucci.ch)
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
